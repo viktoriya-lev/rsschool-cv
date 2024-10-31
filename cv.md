@@ -1,3 +1,5 @@
+![](./assets/profile_photo.jpg "Profile photo")
+
 # Viktoriya Levitskaya
 ## Junior Frontend Developer | Vue.js
 
@@ -17,7 +19,7 @@ Value self-awareness and continuous improvement, eager to learn new tools and st
 
 ***
 ### Skills 🌟
-- HTML5, CSS3, JavaScript
+- HTML5, CSS3, JavaScript, TypeScript
 - Vue
 - Git
 - VS Code, WebStorm
